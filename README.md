@@ -87,27 +87,29 @@ phases:
 - **Source:** GitHub repository
 - **Build Stage:** AWS CodeBuild
 - **Deploy Stage:** Sync to S3 bucket
-- **IAM Role Permissions:** Ensure CodePipeline and CodeBuild have `S3FullAccess` permission.
-
-### **5️⃣ (Optional) Add AWS CloudFront for HTTPS**
-- **Origin:** Use `my-s3-static-website-bucket.s3.amazonaws.com`
-- **Enable OAC (Origin Access Control)** and update S3 policy
-- **Update CloudFront Distribution Settings** to serve the website securely
-
+- **IAM Role Permissions:** Ensure CodePipeline and CodeBuild have `S3FullAccess` permission. (*or Selective Accesses can also be given for added security*)
 ---
 
 ## 📸 **Screenshots for Proof of Work**
-✅ **1. GitHub Repository**()()()()
+✅ **1. GitHub Repository**(GitHbub-S3-Codepipeline-Project/assets/Repo_Image)
 *Showing `index.html`, `error.html`, `buildspec.yml` files.*  
 ---
-✅ **2. AWS CodePipeline Execution**()()()()
+✅ **2. AWS CodePipeline Execution**(GitHbub-S3-Codepipeline-Project/assets/CodepPipeline.png)(GitHbub-S3-Codepipeline-Project/assets/CodepPipeline_1.png)(GitHbub-S3-Codepipeline-Project/assets/CodepPipeline_2.png)
 *Screenshot of successful CodePipeline deployment.*  
 ---
-✅ **3. AWS CodeBuild Logs**()()()()
+✅ **3. AWS CodeBuild Logs**(GitHbub-S3-Codepipeline-Project/assets/CodeBuild_1.png)(GitHbub-S3-Codepipeline-Project/assets/CodeBuild_2.png)
 *Verifying successful build and deployment steps.*  
 ---
-✅ **4. Live Website URL**()()()()
-*Open the S3 static website link to verify the deployment.*
+✅ **4. Checking Proper Working of the Project**(GitHbub-S3-Codepipeline-Project/assets/website.png)
+*Initial S3 Static Website before linking and committing changes.*
+(GitHbub-S3-Codepipeline-Project/assets/initial_s3.png)
+*Initial S3 Bucket objects before building CodePipeline.*
+(GitHbub-S3-Codepipeline-Project/assets/commit_updated_website.png)
+*Screenshot showing changes committed in index.html to verify proper functioning of CodePipeline*
+(GitHbub-S3-Codepipeline-Project/assets/website_2.png)
+*Screenshot of the updated S3 static website, proving successful syncing of GitHub Repository and S3 Bucket.*
+(GitHbub-S3-Codepipeline-Project/assets/s3.png)(GitHbub-S3-Codepipeline-Project/assets/s3_1.png)
+*Screenshot of updated S3 Bucket Objects.*
 ---
 
 ---
