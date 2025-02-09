@@ -104,7 +104,7 @@ phases:
 ## 🔥 **Live Demo**
 Copy the link below and paste it in your browser:
 ```
-`http://my-static-codepipeline-site-bucket.s3-website-us-east-1.amazonaws.com/`
+http://my-static-codepipeline-site-bucket.s3-website-us-east-1.amazonaws.com/
 ```
 
 ---
