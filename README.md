@@ -91,26 +91,26 @@ phases:
 ---
 
 ## 📸 **Screenshots for Proof of Work**
-✅ [**1. GitHub Repository**](GitHub-S3-Codepipeline-Project/assets/Repo_Image)
+✅ ![**1. GitHub Repository**](GitHub-S3-Codepipeline-Project/assets/Repo_Image)
 *Showing `index.html`, `error.html`, `buildspec.yml` files.*  
 ---
-✅ [**2. AWS CodePipeline Execution**](GitHub-S3-Codepipeline-Project/assets/CodepPipeline.png)(GitHub-S3-Codepipeline-Project/assets/CodepPipeline_1.png)(GiHbub-S3-Codepipeline-Project/assets/CodepPipeline_2.png)
+✅ ![**2. AWS CodePipeline Execution**](GitHub-S3-Codepipeline-Project/assets/CodepPipeline.png)(GitHub-S3-Codepipeline-Project/assets/CodepPipeline_1.png)(GiHbub-S3-Codepipeline-Project/assets/CodepPipeline_2.png)
 *Screenshot of successful CodePipeline deployment.*  
 ---
-✅ [**3. AWS CodeBuild Logs**](GitHub-S3-Codepipeline-Project/assets/CodeBuild_1.png)(GitHub-S3-Codepipeline-Project/assets/CodeBuild_2.png)
+✅ ![**3. AWS CodeBuild Logs**](GitHub-S3-Codepipeline-Project/assets/CodeBuild_1.png)(GitHub-S3-Codepipeline-Project/assets/CodeBuild_2.png)
 *Verifying successful build and deployment steps.*  
 ---
 ✅ **4. Checking Proper Working of the Project**
 
-[1](GitHub-S3-Codepipeline-Project/assets/website.png)
+![1](GitHub-S3-Codepipeline-Project/assets/website.png)
 *Initial S3 Static Website before linking and committing changes.*
-[2](GitHub-S3-Codepipeline-Project/assets/initial_s3.png)
+![2](GitHub-S3-Codepipeline-Project/assets/initial_s3.png)
 *Initial S3 Bucket objects before building CodePipeline.*
-[3](GitHub-S3-Codepipeline-Project/assets/commit_updated_website.png)
+![3](GitHub-S3-Codepipeline-Project/assets/commit_updated_website.png)
 *Screenshot showing changes committed in index.html to verify proper functioning of CodePipeline*
-[4](GitHub-S3-Codepipeline-Project/assets/website_2.png)
+![4](GitHub-S3-Codepipeline-Project/assets/website_2.png)
 *Screenshot of the updated S3 static website, proving successful syncing of GitHub Repository and S3 Bucket.*
-[5](GitHub-S3-Codepipeline-Project/assets/s3.png)(GitHbub-S3-Codepipeline-Project/assets/s3_1.png)
+![5](GitHub-S3-Codepipeline-Project/assets/s3.png)(GitHbub-S3-Codepipeline-Project/assets/s3_1.png)
 *Screenshot of updated S3 Bucket Objects.*
 ---
 
