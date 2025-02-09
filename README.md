@@ -92,51 +92,55 @@ phases:
 
 ## 📸 **Screenshots for Proof of Work**
 ### ✅ 1. **GitHub Repository**
-![1](GitHub-S3-Codepipeline-Project/assets/Repo_Image)
+![1](assets/Repo_Image)
 *Showing `index.html`, `error.html`, `buildspec.yml` files.* 
 
-
+---
 ### ✅ 2. **AWS CodePipeline Execution**
-![2](GitHub-S3-Codepipeline-Project/assets/CodepPipeline.png)
+![2](assets/CodepPipeline.png)
 
+---
 
-![3](GitHub-S3-Codepipeline-Project/assets/CodepPipeline_1.png)
+![3](assets/CodepPipeline_1.png)
 
-
-![4](GiHbub-S3-Codepipeline-Project/assets/CodepPipeline_2.png)
+---
+![4](assets/CodepPipeline_2.png)
 *Screenshots of successful CodePipeline deployment.*  
 
-
+---
 ### ✅ 3. **AWS CodeBuild Logs**
-![5](GitHub-S3-Codepipeline-Project/assets/CodeBuild_1.png)
+![5](assets/CodeBuild_1.png)
 
-
-![6](GitHub-S3-Codepipeline-Project/assets/CodeBuild_2.png)
+---
+![6](assets/CodeBuild_2.png)
 *Verifying successful build and deployment steps.*  
 
+---
 
 ### ✅ **4. Checking Proper Working of the Project**
 
-![7](GitHub-S3-Codepipeline-Project/assets/website.png)
+![7](assets/website.png)
 *Initial S3 Static Website before linking and committing changes.*
 
+---
 
-![8](GitHub-S3-Codepipeline-Project/assets/initial_s3.png)
+![8](assets/initial_s3.png)
 *Initial S3 Bucket objects before building CodePipeline.*
 
-
-![9](GitHub-S3-Codepipeline-Project/assets/commit_updated_website.png)
+---
+![9](assets/commit_updated_website.png)
 *Screenshot showing changes committed in index.html to verify proper functioning of CodePipeline*
 
-
-![10](GitHub-S3-Codepipeline-Project/assets/website_2.png)
+---
+![10](assets/website_2.png)
 *Screenshot of the updated S3 static website, proving successful syncing of GitHub Repository and S3 Bucket.*
 
+---
 
-![11](GitHub-S3-Codepipeline-Project/assets/s3.png)
+![11](assets/s3.png)
 
-
-![12](GitHbub-S3-Codepipeline-Project/assets/s3_1.png)
+---
+![12](assets/s3_1.png)
 *Screenshot of updated S3 Bucket Objects.*
 
 
