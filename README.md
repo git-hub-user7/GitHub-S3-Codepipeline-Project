@@ -20,19 +20,22 @@ This project demonstrates the implementation of a **CI/CD pipeline using AWS Cod
 ---
 
 ## 📂 **Project Structure**
-```plaintext
+```
 📁 GitHbub-S3-Codepipeline-Project/
  ├── 📄 index.html              # Main webpage file
  ├── 📄 error.html              # Custom error page
  ├── 📄 README.md               # Project documentation
  ├── 📄 buildspec.yml           # Build instructions for AWS CodeBuild
- 📁 assets/      # GitHub Actions (Optional alternative CI/CD approach)
- ├── 📄 Screenshot_1
- ├── 📄 Screenshot_2
- ├── 📄 Screenshot_3
- ├── 📄 Screenshot_4
- ├── 📄 Screenshot_5
- ├── 📄 Screenshot_6
+ ├── 📁 assets/                 # Consists of Screenshots of work done 
+      ├── 📄 Screenshot_1
+      ├── 📄 Screenshot_2
+      ├── 📄 Screenshot_3
+      ├── 📄 Screenshot_4
+      ├── 📄 Screenshot_5
+      ├── 📄 Screenshot_6
+      ├── 📄 Screenshot_7
+      ├── 📄 Screenshot_8
+      ├── 📄 Screenshot_9
 ```
 
 ---
@@ -84,7 +87,7 @@ phases:
 - **Source:** GitHub repository
 - **Build Stage:** AWS CodeBuild
 - **Deploy Stage:** Sync to S3 bucket
-- **IAM Role Permissions:** Ensure CodePipeline and CodeBuild have `s3:PutObject`, `s3:GetObject`, and `s3:ListBucket` permissions.
+- **IAM Role Permissions:** Ensure CodePipeline and CodeBuild have `S3FullAccess` permission.
 
 ### **5️⃣ (Optional) Add AWS CloudFront for HTTPS**
 - **Origin:** Use `my-s3-static-website-bucket.s3.amazonaws.com`
@@ -94,10 +97,18 @@ phases:
 ---
 
 ## 📸 **Screenshots for Proof of Work**
-✅ **1. GitHub Repository** - Showing `index.html`, `error.html`, `buildspec.yml` files.  
-✅ **2. AWS CodePipeline Execution** - Screenshot of successful CodePipeline deployment.  
-✅ **3. AWS CodeBuild Logs** - Verifying successful build and deployment steps.  
-✅ **4. Live Website URL** - Open the S3 static website link to verify the deployment.
+✅ **1. GitHub Repository**()()()()
+*Showing `index.html`, `error.html`, `buildspec.yml` files.*  
+---
+✅ **2. AWS CodePipeline Execution**()()()()
+*Screenshot of successful CodePipeline deployment.*  
+---
+✅ **3. AWS CodeBuild Logs**()()()()
+*Verifying successful build and deployment steps.*  
+---
+✅ **4. Live Website URL**()()()()
+*Open the S3 static website link to verify the deployment.*
+---
 
 ---
 
