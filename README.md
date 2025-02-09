@@ -92,6 +92,7 @@ phases:
 
 ## 📸 **Screenshots for Proof of Work**
 ### ✅ 1. **GitHub Repository**
+
 ![1](assets/Repo_Image)
 *Showing `index.html`, `error.html`, `buildspec.yml` files.* 
 
@@ -104,14 +105,17 @@ phases:
 ![3](assets/CodepPipeline_1.png)
 
 ---
+
 ![4](assets/CodepPipeline_2.png)
 *Screenshots of successful CodePipeline deployment.*  
 
 ---
+
 ### ✅ 3. **AWS CodeBuild Logs**
 ![5](assets/CodeBuild_1.png)
 
 ---
+
 ![6](assets/CodeBuild_2.png)
 *Verifying successful build and deployment steps.*  
 
@@ -132,6 +136,7 @@ phases:
 *Screenshot showing changes committed in index.html to verify proper functioning of CodePipeline*
 
 ---
+
 ![10](assets/website_2.png)
 *Screenshot of the updated S3 static website, proving successful syncing of GitHub Repository and S3 Bucket.*
 
@@ -140,9 +145,9 @@ phases:
 ![11](assets/s3.png)
 
 ---
+
 ![12](assets/s3_1.png)
 *Screenshot of updated S3 Bucket Objects.*
-
 
 ---
 ## 🔥 **Live Demo**
