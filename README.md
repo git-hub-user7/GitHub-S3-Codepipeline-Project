@@ -36,6 +36,9 @@ This project demonstrates the implementation of a **CI/CD pipeline using AWS Cod
       ├── 📄 Screenshot_7
       ├── 📄 Screenshot_8
       ├── 📄 Screenshot_9
+      ├── 📄 Screenshot_10
+      ├── 📄 Screenshot_11
+      ├── 📄 Screenshot_12
 ```
 
 ---
