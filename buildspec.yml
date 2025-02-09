@@ -1,0 +1,10 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.8
+  build:
+    commands:
+      - echo "Deploying to S3..."
+      - aws s3 sync . s3://my-static-codepipeline-site-bucket --delete
