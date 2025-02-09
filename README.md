@@ -104,11 +104,11 @@ phases:
 
 ---
 
-![3](assets/CodepPipeline_1.png)
+![3](assets/CodePipeline_1.png)
 
 ---
 
-![4](assets/CodepPipeline_2.png)
+![4](assets/CodePipeline_2.png)
 *Screenshots of successful CodePipeline deployment.*  
 
 ---
