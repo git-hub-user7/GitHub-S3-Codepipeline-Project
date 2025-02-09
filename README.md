@@ -93,11 +93,13 @@ phases:
 ## 📸 **Screenshots for Proof of Work**
 ### ✅ 1. **GitHub Repository**
 
-![1](assets/Repo_Image)
+![1](assets/Repo_Image.png)
 *Showing `index.html`, `error.html`, `buildspec.yml` files.* 
 
 ---
+
 ### ✅ 2. **AWS CodePipeline Execution**
+
 ![2](assets/CodepPipeline.png)
 
 ---
@@ -132,6 +134,7 @@ phases:
 *Initial S3 Bucket objects before building CodePipeline.*
 
 ---
+
 ![9](assets/commit_updated_website.png)
 *Screenshot showing changes committed in index.html to verify proper functioning of CodePipeline*
 
