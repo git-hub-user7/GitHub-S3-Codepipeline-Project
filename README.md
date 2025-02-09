@@ -5,6 +5,14 @@ This project demonstrates the implementation of a **CI/CD pipeline using AWS Cod
 
 ---
 
+## 🔥 **Live Demo**
+Copy the link below and paste it in your browser:
+```
+http://my-static-codepipeline-site-bucket.s3-website-us-east-1.amazonaws.com/
+```
+
+---
+
 ## 🚀 **Tech Stack & AWS Services Used**
 - **AWS S3** - For static website hosting
 - **AWS CodePipeline** - CI/CD pipeline automation
@@ -156,13 +164,7 @@ phases:
 *Screenshot of updated S3 Bucket Objects.*
 
 ---
-## 🔥 **Live Demo**
-Copy the link below and paste it in your browser:
-```
-http://my-static-codepipeline-site-bucket.s3-website-us-east-1.amazonaws.com/
-```
 
----
 
 ## 📌 **Troubleshooting & Common Issues**
 ### **🔴 CodePipeline Execution Fails**
