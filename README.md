@@ -170,9 +170,6 @@ http://my-static-codepipeline-site-bucket.s3-website-us-east-1.amazonaws.com/
 - Add necessary S3 permissions for the CodeBuild IAM role.
 - Check `buildspec.yml` syntax and commands.
 
-### **🔴 CloudFront Shows "Access Denied"**
-- Ensure **OAC (Origin Access Control)** is enabled.
-- Update **S3 bucket policy** to allow CloudFront access.
 
 ---
 
@@ -184,11 +181,9 @@ http://my-static-codepipeline-site-bucket.s3-website-us-east-1.amazonaws.com/
 ---
 
 ### **🔗 Connect with Me**
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
+- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/dhwarakesh-srinivasan-361719292)
+- **GitHub:** [Your GitHub Profile](https://github.com/git-hub-user7)
 - **Portfolio:** [Your Portfolio Website](#)
 
 ---
-
-🚀 **If you find this project useful, feel free to ⭐ star the repository!** 🚀
 
