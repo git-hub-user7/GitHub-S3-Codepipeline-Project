@@ -92,20 +92,20 @@ phases:
 
 ## 📸 **Screenshots for Proof of Work**
 ### ✅ 1. **GitHub Repository**
-[1](GitHub-S3-Codepipeline-Project/assets/Repo_Image)
+![1](GitHub-S3-Codepipeline-Project/assets/Repo_Image)
 *Showing `index.html`, `error.html`, `buildspec.yml` files.* 
 
 ---
 ### ✅ 2. **AWS CodePipeline Execution**
-[2](GitHub-S3-Codepipeline-Project/assets/CodepPipeline.png)
-[3](GitHub-S3-Codepipeline-Project/assets/CodepPipeline_1.png)
-[4](GiHbub-S3-Codepipeline-Project/assets/CodepPipeline_2.png)
+![2](GitHub-S3-Codepipeline-Project/assets/CodepPipeline.png)
+![3](GitHub-S3-Codepipeline-Project/assets/CodepPipeline_1.png)
+![4](GiHbub-S3-Codepipeline-Project/assets/CodepPipeline_2.png)
 *Screenshot of successful CodePipeline deployment.*  
 
 ---
 ### ✅ 3. **AWS CodeBuild Logs**
-[5](GitHub-S3-Codepipeline-Project/assets/CodeBuild_1.png)
-[6](GitHub-S3-Codepipeline-Project/assets/CodeBuild_2.png)
+![5](GitHub-S3-Codepipeline-Project/assets/CodeBuild_1.png)
+![6](GitHub-S3-Codepipeline-Project/assets/CodeBuild_2.png)
 *Verifying successful build and deployment steps.*  
 
 ---
@@ -131,7 +131,7 @@ phases:
 ![11](GitHub-S3-Codepipeline-Project/assets/s3.png)
 
 ---
-[12](GitHbub-S3-Codepipeline-Project/assets/s3_1.png)
+![12](GitHbub-S3-Codepipeline-Project/assets/s3_1.png)
 *Screenshot of updated S3 Bucket Objects.*
 
 
