@@ -1,0 +1,14 @@
+name: Trigger AWS CodePipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger CodePipeline
+        run: |
+          aws codepipeline start-pipeline-execution --name YOUR_PIPELINE_NAME
