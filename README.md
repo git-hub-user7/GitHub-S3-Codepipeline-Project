@@ -189,7 +189,7 @@ phases:
 #### Dhwarakesh Srinivasan
 - **LinkedIn:** [https://www.linkedin.com/in/dhwarakesh-srinivasan-361719292](https://www.linkedin.com/in/dhwarakesh-srinivasan-361719292)
 - **GitHub:** [https://github.com/git-hub-user7](https://github.com/git-hub-user7)
-- **Email:** `dhwarakesh99@gmail.com'
+- **Email:** `dhwarakesh99@gmail.com`
 
 ---
 
