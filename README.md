@@ -186,9 +186,10 @@ phases:
 ---
 
 ### **🔗 Connect with Me**
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/dhwarakesh-srinivasan-361719292)
-- **GitHub:** [Your GitHub Profile](https://github.com/git-hub-user7)
-- **Portfolio:** [Your Portfolio Website](#)
+#### Dhwarakesh Srinivasan
+- **LinkedIn:** [https://www.linkedin.com/in/dhwarakesh-srinivasan-361719292](https://www.linkedin.com/in/dhwarakesh-srinivasan-361719292)
+- **GitHub:** [https://github.com/git-hub-user7](https://github.com/git-hub-user7)
+- **Email:** `dhwarakesh99@gmail.com'
 
 ---
 
